@@ -1,0 +1,19 @@
+{
+  "name": "33logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/33gustavo33/33Logger.git"
+  },
+  "author": "Gustavo33",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/33gustavo33/33Logger/issues"
+  },
+  "homepage": "https://github.com/33gustavo33/33Logger#readme"
+}
