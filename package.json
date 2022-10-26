@@ -1,6 +1,6 @@
 {
   "name": "33logger",
-  "version": "1.0.0",
+  "version": "0.9.5",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/33gustavo33/33Logger.git"
+    "url": "git+https://github.com/33Bot/33Logger.git"
   },
   "scripts": {
     "check": "prettier --check \"./lib/*\"",
@@ -17,9 +17,9 @@
   "author": "Gustavo33",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/33gustavo33/33Logger/issues"
+    "url": "https://github.com/33Bot/33Logger/issues"
   },
-  "homepage": "https://github.com/33gustavo33/33Logger#readme",
+  "homepage": "https://github.com/33Bot/33Logger#readme",
   "devDependencies": {
     "prettier": "2.7.1"
   }
